@@ -1,0 +1,7 @@
+id,content,role,language_id
+1,"Olá, como está?",user,1
+2,"Bonjour ! Ça va bien, merci. Et vous ? 😊  
+(Hello! I’m well, thank you. And you?)",assistant,1
+3,"Hello, how are you?",user,2
+4,"Olá! Estou bem, obrigado. E você, como está? 😊  
+(Hello! I’m well, thank you. And how are you?)",assistant,2
